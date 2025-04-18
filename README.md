@@ -57,7 +57,7 @@ We develop an automated **multi-agent data engine** to create Eyecare-100K, conv
 
 **EyecareGPT**: We introduce an LVLM architecture adapted to complex, heterogeneous ophthalmic clinical imaging, achieving SoTA performance. **(i) High-Resolution Feature Extraction:** Employ SigLIP to enhance local lesion perception.  **(ii) Adaptive Resolution Mechanism:** Accommodate variable resolutions in clinical ophthalmic imaging. **(iii) Layer-wise Dense Connector (LDC):** Densely integrate multi-scale visual features and preserve fine-grained structural information.
 
-<img src="images/model.png" style="width:60%;vertical-align:middle;" />
+<img src="images/model.png" style="display: block; width:60%; margin-left: auto; margin-right: auto; vertical-align:middle;" />
 
 ## 🛠️ Getting Started
 
