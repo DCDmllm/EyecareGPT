@@ -13,9 +13,9 @@ Sijing Li<sup>1</sup>, Tianwei Lin<sup>1</sup>, Lingshuai Lin<sup>2</sup>, Wenqi
 <sup>3</sup>Chenzhou No. 1 People's Hospital,
 <sup>4</sup>National University of Singapore
 
-<a href='https://huggingface.co/lintw/HealthGPT-M3'><img src='https://img.shields.io/badge/Model-Huggingface-yellow'></a>
+<a href='https://huggingface.co/LLSuzy/EyecareGPT-3.8B'><img src='https://img.shields.io/badge/Model-Huggingface-yellow'></a>
 <a><img src='https://img.shields.io/badge/Dataset-Coming Soon-E59FB6'></a>
-<a href='https://llsuzy.github.io/HealthGPT.github.io/'><img src='https://img.shields.io/badge/Home-Page-green'></a>
+<a><img src='https://img.shields.io/badge/Home-Page-green'></a>
 
 </div>
 
