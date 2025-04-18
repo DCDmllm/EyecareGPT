@@ -17,6 +17,8 @@ Sijing Li<sup>1</sup>, Tianwei Lin<sup>1</sup>, Lingshuai Lin<sup>2</sup>, Wenqi
 <a><img src='https://img.shields.io/badge/Dataset-Coming Soon-E59FB6'></a>
 <a href='https://llsuzy.github.io/HealthGPT.github.io/'><img src='https://img.shields.io/badge/Home-Page-green'></a>
 
+</div>
+
 ## 🌟 Overview
 
 Welcome to **EyecareGPT!** 🚀
