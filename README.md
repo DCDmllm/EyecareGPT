@@ -13,6 +13,7 @@ Sijing Li<sup>1</sup>, Tianwei Lin<sup>1</sup>, Lingshuai Lin<sup>2</sup>, Wenqi
 <sup>3</sup>Chenzhou No. 1 People's Hospital,
 <sup>4</sup>National University of Singapore
 
+<a href='https://www.arxiv.org/abs/2504.13650'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 <a href='https://huggingface.co/LLSuzy/EyecareGPT-3.8B'><img src='https://img.shields.io/badge/Model-Huggingface-yellow'></a>
 <a><img src='https://img.shields.io/badge/Dataset-Coming Soon-E59FB6'></a>
 <a><img src='https://img.shields.io/badge/Home-Page-green'></a>
