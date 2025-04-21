@@ -39,7 +39,6 @@ This repository showcases the **Eyecare Kit**, a comprehensive solution designed
 
 - [x] Release  pre-trained weight of the model.
 - [x] Release the demo of  Eyecare-100K.
-- [ ] Release the inference UI/UX.
 - [ ] Release inference code (e.g. training scripts).
 
 ## 📚 Task Classification and Support
