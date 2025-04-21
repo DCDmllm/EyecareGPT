@@ -84,4 +84,16 @@ EyecareGPT utilizes `siglip-so400m-patch14-384` as the visual encoder and employ
 |  Base Model (EyecareGPT-7B)  |  `Qwen2.5-VL-7B-Instruct`   | [Download](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 
  Training and testing scripts code is coming soon...
-
+## 🔗 Citation
+If you found this work useful, please consider giving this repository a star and citing our paper as followed:
+```
+@misc{li2025eyecaregptboostingcomprehensiveophthalmology,
+      title={EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model}, 
+      author={Sijing Li and Tianwei Lin and Lingshuai Lin and Wenqiao Zhang and Jiang Liu and Xiaoda Yang and Juncheng Li and Yucheng He and Xiaohui Song and Jun Xiao and Yueting Zhuang and Beng Chin Ooi},
+      year={2025},
+      eprint={2504.13650},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.13650}, 
+}
+```
